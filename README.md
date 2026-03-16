@@ -112,8 +112,7 @@ Displays the percentage of:
 
 ## 📷 Dashboard Preview
 
-
-
+![Vrinda Store Dashboard](https://raw.githubusercontent.com/fardeen2k-stack/Vrinda-Store-Data-Analysis-using-Excel-/e7ea87d0e4b43f412c16d6ced62974a5e57f5002/Dashboard.png)
 ---
 
 ## 🔎 Key Insights
